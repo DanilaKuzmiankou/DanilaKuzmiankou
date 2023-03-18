@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer with 5 month of commercial freelance experience in creating SPA using<br> React, Redux/mobX, TypeScript, HTML&CSS.<br>I spend my free time reading educational literature, articles, as well as improving my English.<br>I like to develop something new and solve complex problems. <br>I am constantly learning, mastering new technologies to improve my skills.
+I am a developer with experience in creating SPA using<br> React, Redux/mobX, TypeScript, HTML&CSS.<br>I spend my free time reading educational literature, articles, as well as improving my English.<br>I like to develop something new and solve complex problems. <br>I am constantly learning, mastering new technologies to improve my skills.
 
 
 ## 🌐 Socials:
